@@ -16,4 +16,6 @@ artifacts:
     - yarn.lock
     - package.json
     - 'build/**/*'
+    - '.platform/**/*'
+    - '.ebextensions/**/*'
   discard-paths: no
